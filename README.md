@@ -1,0 +1,2 @@
+# Snakes-and-Ladders
+Snakes and Ladders is an ancient Indian game regarded today as a worldwide classic. The game is a simple race contest based on sheer luck. It is played between two or more players on a game board having numbered, gridded squares. In this project, the ancient game of pawns and board has been implemented virtually, where the computer generates the number on the dice and the tokens on the screen are moved accordingly.
